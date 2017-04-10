@@ -21,7 +21,12 @@ public class petstore implements EntryPoint {
 	table.setText(0, 0, "123");
 	table.setText(0, 1, "Spot");
 
+	table.addStyleName("table");
+
 	VerticalPanel right = new VerticalPanel();
+	
+	right.addStyleName("right");
+	
 	FlowPanel f1 = new FlowPanel();
 	f1.add(new Label("ID:"));
 	f1.add(id);
@@ -44,7 +49,7 @@ public class petstore implements EntryPoint {
 	header.addStyleName("etykieta");
 	header.addStyleDependentName("test");
 	header.setStylePrimaryName("aw");
-	header.setStyleName("purge");
+	//header.setStyleName("purge");
 
 
 	FlowPanel footer = new FlowPanel();
@@ -52,7 +57,12 @@ public class petstore implements EntryPoint {
 	footer.add(new Anchor("office@petstore.pcz.pl",
 			      "mailto: office@petstore.pcz.pl"));
 
+	footer.addStyleName("footer");
+
 	VerticalPanel vp = new VerticalPanel();
+
+	vp.addStyleName("vp");
+
 	vp.add(header);
 	vp.add(middle);
 	vp.add(footer);

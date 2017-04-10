@@ -6,8 +6,9 @@ h1 {
   font-size: 2em;
   font-weight: bold;
   color: #777777;
-  margin: 40px 0px 70px;
+  --margin: 40px 0px 70px;
   text-align: center;
+  height: 100px;
 }
 
 .sendButton {
@@ -31,4 +32,21 @@ h1 {
 /** Set ids using widget.getElement().setId("idOfElement") */
 #closeButton {
   margin: 15px 6px 6px;
+}
+
+.vp{
+  width: 100%;
+}
+
+.table{
+  width: 300px;
+}
+
+.footer{
+  height: 100px;
+}
+
+.aw{
+  height: 100px;
+  text-align: center;
 }

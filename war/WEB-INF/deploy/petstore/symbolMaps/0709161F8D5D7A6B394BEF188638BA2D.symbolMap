@@ -1,5 +1,5 @@
-# { 1 }
-# { 'user.agent' : 'ie9' }
+# { 2 }
+# { 'user.agent' : 'ie10' }
 # jsName, jsniIdent, className, memberName, sourceUri, sourceLine, fragmentNumber
 JavaScriptException,,com.google.gwt.core.client.JavaScriptException,,com/google/gwt/core/client/JavaScriptException.java,46,-1
 K,com.google.gwt.core.client.JavaScriptException::$clinit()V,com.google.gwt.core.client.JavaScriptException,$clinit,com/google/gwt/core/client/JavaScriptException.java,46,0
@@ -334,89 +334,88 @@ EventMap,,com.google.gwt.user.client.impl.EventMap,,com/google/gwt/user/client/i
 eg,com.google.gwt.user.client.impl.EventMap::foreach(Lcom/google/gwt/core/client/JavaScriptObject;Lcom/google/gwt/core/client/JavaScriptObject;)V,com.google.gwt.user.client.impl.EventMap,foreach,com/google/gwt/user/client/impl/EventMap.java,45,0
 fg,com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl(Lcom/google/gwt/user/client/impl/WindowImplIE;)V,com.google.gwt.user.client.impl.WindowImplIE,$initWindowCloseHandlerImpl,com/google/gwt/user/client/impl/WindowImplIE.java,134,0
 AbsolutePanel,,com.google.gwt.user.client.ui.AbsolutePanel,,com/google/gwt/user/client/ui/AbsolutePanel.java,60,-1
-Dg,com.google.gwt.user.client.ui.AbsolutePanel::$add(Lcom/google/gwt/user/client/ui/AbsolutePanel;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AbsolutePanel,$add,com/google/gwt/user/client/ui/AbsolutePanel.java,98,0
-Eg,com.google.gwt.user.client.ui.AbsolutePanel::changeToStaticPositioning(Lcom/google/gwt/dom/client/Element;)V,com.google.gwt.user.client.ui.AbsolutePanel,changeToStaticPositioning,com/google/gwt/user/client/ui/AbsolutePanel.java,68,0
-Fg,com.google.gwt.user.client.ui.AbsolutePanel::remove(Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.AbsolutePanel,remove,com/google/gwt/user/client/ui/AbsolutePanel.java,200,0
+Eg,com.google.gwt.user.client.ui.AbsolutePanel::$add(Lcom/google/gwt/user/client/ui/AbsolutePanel;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AbsolutePanel,$add,com/google/gwt/user/client/ui/AbsolutePanel.java,98,0
+Fg,com.google.gwt.user.client.ui.AbsolutePanel::changeToStaticPositioning(Lcom/google/gwt/dom/client/Element;)V,com.google.gwt.user.client.ui.AbsolutePanel,changeToStaticPositioning,com/google/gwt/user/client/ui/AbsolutePanel.java,68,0
+Gg,com.google.gwt.user.client.ui.AbsolutePanel::remove(Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.AbsolutePanel,remove,com/google/gwt/user/client/ui/AbsolutePanel.java,200,0
 Anchor,,com.google.gwt.user.client.ui.Anchor,,com/google/gwt/user/client/ui/Anchor.java,55,-1
-Hg,com.google.gwt.user.client.ui.Anchor::Anchor(Ljava/lang/String;Ljava/lang/String;) <init>,com.google.gwt.user.client.ui.Anchor,Anchor,com/google/gwt/user/client/ui/Anchor.java,296,0
+Ig,com.google.gwt.user.client.ui.Anchor::Anchor(Ljava/lang/String;Ljava/lang/String;) <init>,com.google.gwt.user.client.ui.Anchor,Anchor,com/google/gwt/user/client/ui/Anchor.java,296,0
 a,com.google.gwt.user.client.ui.Anchor::directionalTextHelper,com.google.gwt.user.client.ui.Anchor,directionalTextHelper,com/google/gwt/user/client/ui/Anchor.java,91,-1
 AttachDetachException,,com.google.gwt.user.client.ui.AttachDetachException,,com/google/gwt/user/client/ui/AttachDetachException.java,27,-1
-Kg,com.google.gwt.user.client.ui.AttachDetachException::$clinit()V,com.google.gwt.user.client.ui.AttachDetachException,$clinit,com/google/gwt/user/client/ui/AttachDetachException.java,27,0
-Lg,com.google.gwt.user.client.ui.AttachDetachException::AttachDetachException(Ljava/util/Set;) <init>,com.google.gwt.user.client.ui.AttachDetachException,AttachDetachException,com/google/gwt/user/client/ui/AttachDetachException.java,135,0
-Ig,com.google.gwt.user.client.ui.AttachDetachException::attachCommand,com.google.gwt.user.client.ui.AttachDetachException,attachCommand,com/google/gwt/user/client/ui/AttachDetachException.java,32,-1
-Jg,com.google.gwt.user.client.ui.AttachDetachException::detachCommand,com.google.gwt.user.client.ui.AttachDetachException,detachCommand,com/google/gwt/user/client/ui/AttachDetachException.java,41,-1
-Mg,com.google.gwt.user.client.ui.AttachDetachException::tryCommand(Ljava/lang/Iterable;Lcom/google/gwt/user/client/ui/AttachDetachException$Command;)V,com.google.gwt.user.client.ui.AttachDetachException,tryCommand,com/google/gwt/user/client/ui/AttachDetachException.java,70,0
+Lg,com.google.gwt.user.client.ui.AttachDetachException::$clinit()V,com.google.gwt.user.client.ui.AttachDetachException,$clinit,com/google/gwt/user/client/ui/AttachDetachException.java,27,0
+Mg,com.google.gwt.user.client.ui.AttachDetachException::AttachDetachException(Ljava/util/Set;) <init>,com.google.gwt.user.client.ui.AttachDetachException,AttachDetachException,com/google/gwt/user/client/ui/AttachDetachException.java,135,0
+Jg,com.google.gwt.user.client.ui.AttachDetachException::attachCommand,com.google.gwt.user.client.ui.AttachDetachException,attachCommand,com/google/gwt/user/client/ui/AttachDetachException.java,32,-1
+Kg,com.google.gwt.user.client.ui.AttachDetachException::detachCommand,com.google.gwt.user.client.ui.AttachDetachException,detachCommand,com/google/gwt/user/client/ui/AttachDetachException.java,41,-1
+Ng,com.google.gwt.user.client.ui.AttachDetachException::tryCommand(Ljava/lang/Iterable;Lcom/google/gwt/user/client/ui/AttachDetachException$Command;)V,com.google.gwt.user.client.ui.AttachDetachException,tryCommand,com/google/gwt/user/client/ui/AttachDetachException.java,70,0
 AttachDetachException$1,,com.google.gwt.user.client.ui.AttachDetachException$1,,com/google/gwt/user/client/ui/AttachDetachException.java,32,-1
-Ng,com.google.gwt.user.client.ui.AttachDetachException$1::AttachDetachException$1() <init>,com.google.gwt.user.client.ui.AttachDetachException$1,AttachDetachException$1,com/google/gwt/user/client/ui/AttachDetachException.java,32,0
-Og,com.google.gwt.user.client.ui.AttachDetachException$1::execute(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AttachDetachException$1,execute,com/google/gwt/user/client/ui/AttachDetachException.java,33,0
+Og,com.google.gwt.user.client.ui.AttachDetachException$1::AttachDetachException$1() <init>,com.google.gwt.user.client.ui.AttachDetachException$1,AttachDetachException$1,com/google/gwt/user/client/ui/AttachDetachException.java,32,0
+Pg,com.google.gwt.user.client.ui.AttachDetachException$1::execute(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AttachDetachException$1,execute,com/google/gwt/user/client/ui/AttachDetachException.java,33,0
 AttachDetachException$2,,com.google.gwt.user.client.ui.AttachDetachException$2,,com/google/gwt/user/client/ui/AttachDetachException.java,41,-1
-Pg,com.google.gwt.user.client.ui.AttachDetachException$2::AttachDetachException$2() <init>,com.google.gwt.user.client.ui.AttachDetachException$2,AttachDetachException$2,com/google/gwt/user/client/ui/AttachDetachException.java,41,0
-Qg,com.google.gwt.user.client.ui.AttachDetachException$2::execute(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AttachDetachException$2,execute,com/google/gwt/user/client/ui/AttachDetachException.java,42,0
+Qg,com.google.gwt.user.client.ui.AttachDetachException$2::AttachDetachException$2() <init>,com.google.gwt.user.client.ui.AttachDetachException$2,AttachDetachException$2,com/google/gwt/user/client/ui/AttachDetachException.java,41,0
+Rg,com.google.gwt.user.client.ui.AttachDetachException$2::execute(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.AttachDetachException$2,execute,com/google/gwt/user/client/ui/AttachDetachException.java,42,0
 CellPanel,,com.google.gwt.user.client.ui.CellPanel,,com/google/gwt/user/client/ui/CellPanel.java,68,-1
-Rg,com.google.gwt.user.client.ui.CellPanel::$setCellHorizontalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/dom/client/Element;Lcom/google/gwt/user/client/ui/HasHorizontalAlignment$HorizontalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellHorizontalAlignment,com/google/gwt/user/client/ui/CellPanel.java,213,0
-Sg,com.google.gwt.user.client.ui.CellPanel::$setCellVerticalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/dom/client/Element;Lcom/google/gwt/user/client/ui/HasVerticalAlignment$VerticalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellVerticalAlignment,com/google/gwt/user/client/ui/CellPanel.java,229,0
-Tg,com.google.gwt.user.client.ui.CellPanel::$setCellVerticalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/user/client/Element;Lcom/google/gwt/user/client/ui/HasVerticalAlignment$VerticalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellVerticalAlignment,com/google/gwt/user/client/ui/CellPanel.java,239,0
-Ug,com.google.gwt.user.client.ui.CellPanel::CellPanel() <init>,com.google.gwt.user.client.ui.CellPanel,CellPanel,com/google/gwt/user/client/ui/CellPanel.java,73,0
+Sg,com.google.gwt.user.client.ui.CellPanel::$setCellHorizontalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/dom/client/Element;Lcom/google/gwt/user/client/ui/HasHorizontalAlignment$HorizontalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellHorizontalAlignment,com/google/gwt/user/client/ui/CellPanel.java,213,0
+Tg,com.google.gwt.user.client.ui.CellPanel::$setCellVerticalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/dom/client/Element;Lcom/google/gwt/user/client/ui/HasVerticalAlignment$VerticalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellVerticalAlignment,com/google/gwt/user/client/ui/CellPanel.java,229,0
+Ug,com.google.gwt.user.client.ui.CellPanel::$setCellVerticalAlignment(Lcom/google/gwt/user/client/ui/CellPanel;Lcom/google/gwt/user/client/Element;Lcom/google/gwt/user/client/ui/HasVerticalAlignment$VerticalAlignmentConstant;)V,com.google.gwt.user.client.ui.CellPanel,$setCellVerticalAlignment,com/google/gwt/user/client/ui/CellPanel.java,239,0
+Vg,com.google.gwt.user.client.ui.CellPanel::CellPanel() <init>,com.google.gwt.user.client.ui.CellPanel,CellPanel,com/google/gwt/user/client/ui/CellPanel.java,73,0
 d,com.google.gwt.user.client.ui.CellPanel::body,com.google.gwt.user.client.ui.CellPanel,body,com/google/gwt/user/client/ui/CellPanel.java,71,-1
 e,com.google.gwt.user.client.ui.CellPanel::table,com.google.gwt.user.client.ui.CellPanel,table,com/google/gwt/user/client/ui/CellPanel.java,71,-1
 ComplexPanel,,com.google.gwt.user.client.ui.ComplexPanel,,com/google/gwt/user/client/ui/ComplexPanel.java,26,-1
-yg,com.google.gwt.user.client.ui.ComplexPanel::$add(Lcom/google/gwt/user/client/ui/ComplexPanel;Lcom/google/gwt/user/client/ui/Widget;Lcom/google/gwt/user/client/Element;)V,com.google.gwt.user.client.ui.ComplexPanel,$add,com/google/gwt/user/client/ui/ComplexPanel.java,94,0
-zg,com.google.gwt.user.client.ui.ComplexPanel::$remove(Lcom/google/gwt/user/client/ui/ComplexPanel;Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.ComplexPanel,$remove,com/google/gwt/user/client/ui/ComplexPanel.java,60,0
-Ag,com.google.gwt.user.client.ui.ComplexPanel::ComplexPanel() <init>,com.google.gwt.user.client.ui.ComplexPanel,ComplexPanel,com/google/gwt/user/client/ui/ComplexPanel.java,26,0
+zg,com.google.gwt.user.client.ui.ComplexPanel::$add(Lcom/google/gwt/user/client/ui/ComplexPanel;Lcom/google/gwt/user/client/ui/Widget;Lcom/google/gwt/user/client/Element;)V,com.google.gwt.user.client.ui.ComplexPanel,$add,com/google/gwt/user/client/ui/ComplexPanel.java,94,0
+Ag,com.google.gwt.user.client.ui.ComplexPanel::$remove(Lcom/google/gwt/user/client/ui/ComplexPanel;Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.ComplexPanel,$remove,com/google/gwt/user/client/ui/ComplexPanel.java,60,0
+Bg,com.google.gwt.user.client.ui.ComplexPanel::ComplexPanel() <init>,com.google.gwt.user.client.ui.ComplexPanel,ComplexPanel,com/google/gwt/user/client/ui/ComplexPanel.java,26,0
 f,com.google.gwt.user.client.ui.ComplexPanel::children,com.google.gwt.user.client.ui.ComplexPanel,children,com/google/gwt/user/client/ui/ComplexPanel.java,28,-1
-Bg,com.google.gwt.user.client.ui.ComplexPanel::iterator()Ljava/util/Iterator;,com.google.gwt.user.client.ui.ComplexPanel,iterator,com/google/gwt/user/client/ui/ComplexPanel.java,51,0
-Cg,com.google.gwt.user.client.ui.ComplexPanel::remove(Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.ComplexPanel,remove,com/google/gwt/user/client/ui/ComplexPanel.java,60,0
+Cg,com.google.gwt.user.client.ui.ComplexPanel::iterator()Ljava/util/Iterator;,com.google.gwt.user.client.ui.ComplexPanel,iterator,com/google/gwt/user/client/ui/ComplexPanel.java,51,0
+Dg,com.google.gwt.user.client.ui.ComplexPanel::remove(Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.ComplexPanel,remove,com/google/gwt/user/client/ui/ComplexPanel.java,60,0
 DirectionalTextHelper,,com.google.gwt.user.client.ui.DirectionalTextHelper,,com/google/gwt/user/client/ui/DirectionalTextHelper.java,35,-1
-Vg,com.google.gwt.user.client.ui.DirectionalTextHelper::$setTextOrHtml(Lcom/google/gwt/user/client/ui/DirectionalTextHelper;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.DirectionalTextHelper,$setTextOrHtml,com/google/gwt/user/client/ui/DirectionalTextHelper.java,248,0
-Wg,com.google.gwt.user.client.ui.DirectionalTextHelper::DirectionalTextHelper(Lcom/google/gwt/dom/client/Element;Z) <init>,com.google.gwt.user.client.ui.DirectionalTextHelper,DirectionalTextHelper,com/google/gwt/user/client/ui/DirectionalTextHelper.java,100,0
+Wg,com.google.gwt.user.client.ui.DirectionalTextHelper::$setTextOrHtml(Lcom/google/gwt/user/client/ui/DirectionalTextHelper;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.DirectionalTextHelper,$setTextOrHtml,com/google/gwt/user/client/ui/DirectionalTextHelper.java,248,0
+Xg,com.google.gwt.user.client.ui.DirectionalTextHelper::DirectionalTextHelper(Lcom/google/gwt/dom/client/Element;Z) <init>,com.google.gwt.user.client.ui.DirectionalTextHelper,DirectionalTextHelper,com/google/gwt/user/client/ui/DirectionalTextHelper.java,100,0
 a,com.google.gwt.user.client.ui.DirectionalTextHelper::element,com.google.gwt.user.client.ui.DirectionalTextHelper,element,com/google/gwt/user/client/ui/DirectionalTextHelper.java,51,-1
 b,com.google.gwt.user.client.ui.DirectionalTextHelper::initialElementDir,com.google.gwt.user.client.ui.DirectionalTextHelper,initialElementDir,com/google/gwt/user/client/ui/DirectionalTextHelper.java,56,-1
 c,com.google.gwt.user.client.ui.DirectionalTextHelper::textDir,com.google.gwt.user.client.ui.DirectionalTextHelper,textDir,com/google/gwt/user/client/ui/DirectionalTextHelper.java,94,-1
 FlexTable,,com.google.gwt.user.client.ui.FlexTable,,com/google/gwt/user/client/ui/FlexTable.java,30,-1
-fh,com.google.gwt.user.client.ui.FlexTable::$prepareCell(Lcom/google/gwt/user/client/ui/FlexTable;II)V,com.google.gwt.user.client.ui.FlexTable,$prepareCell,com/google/gwt/user/client/ui/FlexTable.java,206,0
-gh,com.google.gwt.user.client.ui.FlexTable::$prepareRow(Lcom/google/gwt/user/client/ui/FlexTable;I)V,com.google.gwt.user.client.ui.FlexTable,$prepareRow,com/google/gwt/user/client/ui/FlexTable.java,228,0
-hh,com.google.gwt.user.client.ui.FlexTable::FlexTable() <init>,com.google.gwt.user.client.ui.FlexTable,FlexTable,com/google/gwt/user/client/ui/FlexTable.java,92,0
+gh,com.google.gwt.user.client.ui.FlexTable::$prepareCell(Lcom/google/gwt/user/client/ui/FlexTable;II)V,com.google.gwt.user.client.ui.FlexTable,$prepareCell,com/google/gwt/user/client/ui/FlexTable.java,206,0
+hh,com.google.gwt.user.client.ui.FlexTable::$prepareRow(Lcom/google/gwt/user/client/ui/FlexTable;I)V,com.google.gwt.user.client.ui.FlexTable,$prepareRow,com/google/gwt/user/client/ui/FlexTable.java,228,0
+ih,com.google.gwt.user.client.ui.FlexTable::FlexTable() <init>,com.google.gwt.user.client.ui.FlexTable,FlexTable,com/google/gwt/user/client/ui/FlexTable.java,92,0
 FlexTable$FlexCellFormatter,,com.google.gwt.user.client.ui.FlexTable$FlexCellFormatter,,com/google/gwt/user/client/ui/FlexTable.java,37,-1
-kh,com.google.gwt.user.client.ui.FlexTable$FlexCellFormatter::FlexTable$FlexCellFormatter(Lcom/google/gwt/user/client/ui/FlexTable;) <init>,com.google.gwt.user.client.ui.FlexTable$FlexCellFormatter,FlexTable$FlexCellFormatter,com/google/gwt/user/client/ui/FlexTable.java,37,0
+lh,com.google.gwt.user.client.ui.FlexTable$FlexCellFormatter::FlexTable$FlexCellFormatter(Lcom/google/gwt/user/client/ui/FlexTable;) <init>,com.google.gwt.user.client.ui.FlexTable$FlexCellFormatter,FlexTable$FlexCellFormatter,com/google/gwt/user/client/ui/FlexTable.java,37,0
 FlowPanel,,com.google.gwt.user.client.ui.FlowPanel,,com/google/gwt/user/client/ui/FlowPanel.java,29,-1
-lh,com.google.gwt.user.client.ui.FlowPanel::$add(Lcom/google/gwt/user/client/ui/FlowPanel;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.FlowPanel,$add,com/google/gwt/user/client/ui/FlowPanel.java,50,0
-mh,com.google.gwt.user.client.ui.FlowPanel::FlowPanel() <init>,com.google.gwt.user.client.ui.FlowPanel,FlowPanel,com/google/gwt/user/client/ui/FlowPanel.java,33,0
+mh,com.google.gwt.user.client.ui.FlowPanel::$add(Lcom/google/gwt/user/client/ui/FlowPanel;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.FlowPanel,$add,com/google/gwt/user/client/ui/FlowPanel.java,50,0
+nh,com.google.gwt.user.client.ui.FlowPanel::FlowPanel() <init>,com.google.gwt.user.client.ui.FlowPanel,FlowPanel,com/google/gwt/user/client/ui/FlowPanel.java,33,0
 FocusWidget,,com.google.gwt.user.client.ui.FocusWidget,,com/google/gwt/user/client/ui/FocusWidget.java,88,-1
-Gg,com.google.gwt.user.client.ui.FocusWidget::onAttach()V,com.google.gwt.user.client.ui.FocusWidget,onAttach,com/google/gwt/user/client/ui/FocusWidget.java,362,0
+Hg,com.google.gwt.user.client.ui.FocusWidget::onAttach()V,com.google.gwt.user.client.ui.FocusWidget,onAttach,com/google/gwt/user/client/ui/FocusWidget.java,362,0
 HTMLTable,,com.google.gwt.user.client.ui.HTMLTable,,com/google/gwt/user/client/ui/HTMLTable.java,67,-1
-Xg,com.google.gwt.user.client.ui.HTMLTable::$addCells(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/dom/client/Element;II)V,com.google.gwt.user.client.ui.HTMLTable,$addCells,com/google/gwt/user/client/ui/HTMLTable.java,1560,0
-Yg,com.google.gwt.user.client.ui.HTMLTable::$checkRowBounds(Lcom/google/gwt/user/client/ui/HTMLTable;I)V,com.google.gwt.user.client.ui.HTMLTable,$checkRowBounds,com/google/gwt/user/client/ui/HTMLTable.java,1253,0
-Zg,com.google.gwt.user.client.ui.HTMLTable::$getDOMRowCount(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/dom/client/Element;)I,com.google.gwt.user.client.ui.HTMLTable,$getDOMRowCount,com/google/gwt/user/client/ui/HTMLTable.java,1321,0
-$g,com.google.gwt.user.client.ui.HTMLTable::$internalClearCell(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/Element;Z)Z,com.google.gwt.user.client.ui.HTMLTable,$internalClearCell,com/google/gwt/user/client/ui/HTMLTable.java,1425,0
-_g,com.google.gwt.user.client.ui.HTMLTable::$remove(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.HTMLTable,$remove,com/google/gwt/user/client/ui/HTMLTable.java,1076,0
-ah,com.google.gwt.user.client.ui.HTMLTable::$setCellFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;)V,com.google.gwt.user.client.ui.HTMLTable,$setCellFormatter,com/google/gwt/user/client/ui/HTMLTable.java,1537,0
-bh,com.google.gwt.user.client.ui.HTMLTable::$setColumnFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/HTMLTable$ColumnFormatter;)V,com.google.gwt.user.client.ui.HTMLTable,$setColumnFormatter,com/google/gwt/user/client/ui/HTMLTable.java,1541,0
-dh,com.google.gwt.user.client.ui.HTMLTable::$setText(Lcom/google/gwt/user/client/ui/HTMLTable;IILjava/lang/String;)V,com.google.gwt.user.client.ui.HTMLTable,$setText,com/google/gwt/user/client/ui/HTMLTable.java,1173,0
+Yg,com.google.gwt.user.client.ui.HTMLTable::$addCells(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/dom/client/Element;II)V,com.google.gwt.user.client.ui.HTMLTable,$addCells,com/google/gwt/user/client/ui/HTMLTable.java,1560,0
+Zg,com.google.gwt.user.client.ui.HTMLTable::$checkRowBounds(Lcom/google/gwt/user/client/ui/HTMLTable;I)V,com.google.gwt.user.client.ui.HTMLTable,$checkRowBounds,com/google/gwt/user/client/ui/HTMLTable.java,1253,0
+$g,com.google.gwt.user.client.ui.HTMLTable::$getDOMRowCount(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/dom/client/Element;)I,com.google.gwt.user.client.ui.HTMLTable,$getDOMRowCount,com/google/gwt/user/client/ui/HTMLTable.java,1321,0
+_g,com.google.gwt.user.client.ui.HTMLTable::$internalClearCell(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/Element;Z)Z,com.google.gwt.user.client.ui.HTMLTable,$internalClearCell,com/google/gwt/user/client/ui/HTMLTable.java,1425,0
+ah,com.google.gwt.user.client.ui.HTMLTable::$remove(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.HTMLTable,$remove,com/google/gwt/user/client/ui/HTMLTable.java,1076,0
+bh,com.google.gwt.user.client.ui.HTMLTable::$setCellFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;)V,com.google.gwt.user.client.ui.HTMLTable,$setCellFormatter,com/google/gwt/user/client/ui/HTMLTable.java,1537,0
+dh,com.google.gwt.user.client.ui.HTMLTable::$setColumnFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;Lcom/google/gwt/user/client/ui/HTMLTable$ColumnFormatter;)V,com.google.gwt.user.client.ui.HTMLTable,$setColumnFormatter,com/google/gwt/user/client/ui/HTMLTable.java,1541,0
+eh,com.google.gwt.user.client.ui.HTMLTable::$setText(Lcom/google/gwt/user/client/ui/HTMLTable;IILjava/lang/String;)V,com.google.gwt.user.client.ui.HTMLTable,$setText,com/google/gwt/user/client/ui/HTMLTable.java,1173,0
 a,com.google.gwt.user.client.ui.HTMLTable::bodyElem,com.google.gwt.user.client.ui.HTMLTable,bodyElem,com/google/gwt/user/client/ui/HTMLTable.java,762,-1
 b,com.google.gwt.user.client.ui.HTMLTable::cellFormatter,com.google.gwt.user.client.ui.HTMLTable,cellFormatter,com/google/gwt/user/client/ui/HTMLTable.java,767,-1
 c,com.google.gwt.user.client.ui.HTMLTable::columnFormatter,com.google.gwt.user.client.ui.HTMLTable,columnFormatter,com/google/gwt/user/client/ui/HTMLTable.java,772,-1
-eh,com.google.gwt.user.client.ui.HTMLTable::iterator()Ljava/util/Iterator;,com.google.gwt.user.client.ui.HTMLTable,iterator,com/google/gwt/user/client/ui/HTMLTable.java,1026,0
+fh,com.google.gwt.user.client.ui.HTMLTable::iterator()Ljava/util/Iterator;,com.google.gwt.user.client.ui.HTMLTable,iterator,com/google/gwt/user/client/ui/HTMLTable.java,1026,0
 d,com.google.gwt.user.client.ui.HTMLTable::tableElem,com.google.gwt.user.client.ui.HTMLTable,tableElem,com/google/gwt/user/client/ui/HTMLTable.java,782,-1
 e,com.google.gwt.user.client.ui.HTMLTable::widgetMap,com.google.gwt.user.client.ui.HTMLTable,widgetMap,com/google/gwt/user/client/ui/HTMLTable.java,784,-1
 HTMLTable$1,,com.google.gwt.user.client.ui.HTMLTable$1,,com/google/gwt/user/client/ui/HTMLTable.java,1027,-1
-nh,com.google.gwt.user.client.ui.HTMLTable$1::$findNext(Lcom/google/gwt/user/client/ui/HTMLTable$1;)V,com.google.gwt.user.client.ui.HTMLTable$1,$findNext,com/google/gwt/user/client/ui/HTMLTable.java,1059,0
-oh,com.google.gwt.user.client.ui.HTMLTable$1::$next(Lcom/google/gwt/user/client/ui/HTMLTable$1;)Lcom/google/gwt/user/client/ui/Widget;,com.google.gwt.user.client.ui.HTMLTable$1,$next,com/google/gwt/user/client/ui/HTMLTable.java,1039,0
-ph,com.google.gwt.user.client.ui.HTMLTable$1::HTMLTable$1(Lcom/google/gwt/user/client/ui/HTMLTable;) <init>,com.google.gwt.user.client.ui.HTMLTable$1,HTMLTable$1,com/google/gwt/user/client/ui/HTMLTable.java,1027,0
-qh,com.google.gwt.user.client.ui.HTMLTable$1::hasNext()Z,com.google.gwt.user.client.ui.HTMLTable$1,hasNext,com/google/gwt/user/client/ui/HTMLTable.java,1035,0
-rh,com.google.gwt.user.client.ui.HTMLTable$1::next()Ljava/lang/Object;,com.google.gwt.user.client.ui.HTMLTable$1,next,com/google/gwt/user/client/ui/HTMLTable.java,1039,0
+oh,com.google.gwt.user.client.ui.HTMLTable$1::$findNext(Lcom/google/gwt/user/client/ui/HTMLTable$1;)V,com.google.gwt.user.client.ui.HTMLTable$1,$findNext,com/google/gwt/user/client/ui/HTMLTable.java,1059,0
+ph,com.google.gwt.user.client.ui.HTMLTable$1::$next(Lcom/google/gwt/user/client/ui/HTMLTable$1;)Lcom/google/gwt/user/client/ui/Widget;,com.google.gwt.user.client.ui.HTMLTable$1,$next,com/google/gwt/user/client/ui/HTMLTable.java,1039,0
+qh,com.google.gwt.user.client.ui.HTMLTable$1::HTMLTable$1(Lcom/google/gwt/user/client/ui/HTMLTable;) <init>,com.google.gwt.user.client.ui.HTMLTable$1,HTMLTable$1,com/google/gwt/user/client/ui/HTMLTable.java,1027,0
+rh,com.google.gwt.user.client.ui.HTMLTable$1::hasNext()Z,com.google.gwt.user.client.ui.HTMLTable$1,hasNext,com/google/gwt/user/client/ui/HTMLTable.java,1035,0
+sh,com.google.gwt.user.client.ui.HTMLTable$1::next()Ljava/lang/Object;,com.google.gwt.user.client.ui.HTMLTable$1,next,com/google/gwt/user/client/ui/HTMLTable.java,1039,0
 a,com.google.gwt.user.client.ui.HTMLTable$1::nextIndex,com.google.gwt.user.client.ui.HTMLTable$1,nextIndex,com/google/gwt/user/client/ui/HTMLTable.java,1030,-1
 b,com.google.gwt.user.client.ui.HTMLTable$1::this$01,com.google.gwt.user.client.ui.HTMLTable$1,this$01,com/google/gwt/user/client/ui/HTMLTable.java,1027,-1
 c,com.google.gwt.user.client.ui.HTMLTable$1::widgetList,com.google.gwt.user.client.ui.HTMLTable$1,widgetList,com/google/gwt/user/client/ui/HTMLTable.java,1028,-1
 HTMLTable$CellFormatter,,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,,com/google/gwt/user/client/ui/HTMLTable.java,162,-1
-ih,com.google.gwt.user.client.ui.HTMLTable$CellFormatter::$getCellElement(Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;Lcom/google/gwt/dom/client/Element;II)Lcom/google/gwt/dom/client/Element;,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,$getCellElement,com/google/gwt/user/client/ui/HTMLTable.java,428,0
-jh,com.google.gwt.user.client.ui.HTMLTable$CellFormatter::$getRawElement(Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;II)Lcom/google/gwt/dom/client/Element;,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,$getRawElement,com/google/gwt/user/client/ui/HTMLTable.java,441,0
+jh,com.google.gwt.user.client.ui.HTMLTable$CellFormatter::$getCellElement(Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;Lcom/google/gwt/dom/client/Element;II)Lcom/google/gwt/dom/client/Element;,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,$getCellElement,com/google/gwt/user/client/ui/HTMLTable.java,428,0
+kh,com.google.gwt.user.client.ui.HTMLTable$CellFormatter::$getRawElement(Lcom/google/gwt/user/client/ui/HTMLTable$CellFormatter;II)Lcom/google/gwt/dom/client/Element;,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,$getRawElement,com/google/gwt/user/client/ui/HTMLTable.java,441,0
 a,com.google.gwt.user.client.ui.HTMLTable$CellFormatter::this$01,com.google.gwt.user.client.ui.HTMLTable$CellFormatter,this$01,com/google/gwt/user/client/ui/HTMLTable.java,162,-1
 HTMLTable$ColumnFormatter,,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,,com/google/gwt/user/client/ui/HTMLTable.java,450,-1
-sh,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::$prepareColumnGroup(Lcom/google/gwt/user/client/ui/HTMLTable$ColumnFormatter;)V,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,$prepareColumnGroup,com/google/gwt/user/client/ui/HTMLTable.java,582,0
-th,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::HTMLTable$ColumnFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;) <init>,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,HTMLTable$ColumnFormatter,com/google/gwt/user/client/ui/HTMLTable.java,450,0
+th,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::$prepareColumnGroup(Lcom/google/gwt/user/client/ui/HTMLTable$ColumnFormatter;)V,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,$prepareColumnGroup,com/google/gwt/user/client/ui/HTMLTable.java,582,0
+uh,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::HTMLTable$ColumnFormatter(Lcom/google/gwt/user/client/ui/HTMLTable;) <init>,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,HTMLTable$ColumnFormatter,com/google/gwt/user/client/ui/HTMLTable.java,450,0
 a,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::columnGroup,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,columnGroup,com/google/gwt/user/client/ui/HTMLTable.java,451,-1
 b,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter::this$01,com.google.gwt.user.client.ui.HTMLTable$ColumnFormatter,this$01,com/google/gwt/user/client/ui/HTMLTable.java,450,-1
-uh,com.google.gwt.user.client.ui.HTMLTable$HTMLTableIEImpl::$getCells(Lcom/google/gwt/user/client/ui/HTMLTable$HTMLTableIEImpl;Lcom/google/gwt/dom/client/Element;)Lcom/google/gwt/core/client/JsArray;,com.google.gwt.user.client.ui.HTMLTable$HTMLTableIEImpl,$getCells,com/google/gwt/user/client/ui/HTMLTable.java,109,0
 yh,com.google.gwt.user.client.ui.HasHorizontalAlignment::$clinit()V,com.google.gwt.user.client.ui.HasHorizontalAlignment,$clinit,com/google/gwt/user/client/ui/HasHorizontalAlignment.java,44,0
 vh,com.google.gwt.user.client.ui.HasHorizontalAlignment::ALIGN_DEFAULT,com.google.gwt.user.client.ui.HasHorizontalAlignment,ALIGN_DEFAULT,com/google/gwt/user/client/ui/HasHorizontalAlignment.java,137,-1
 wh,com.google.gwt.user.client.ui.HasHorizontalAlignment::ALIGN_LEFT,com.google.gwt.user.client.ui.HasHorizontalAlignment,ALIGN_LEFT,com/google/gwt/user/client/ui/HasHorizontalAlignment.java,109,-1
@@ -443,8 +442,8 @@ LabelBase,,com.google.gwt.user.client.ui.LabelBase,,com/google/gwt/user/client/u
 Gh,com.google.gwt.user.client.ui.LabelBase::LabelBase(Lcom/google/gwt/dom/client/Element;Z) <init>,com.google.gwt.user.client.ui.LabelBase,LabelBase,com/google/gwt/user/client/ui/LabelBase.java,60,0
 a,com.google.gwt.user.client.ui.LabelBase::directionalTextHelper,com.google.gwt.user.client.ui.LabelBase,directionalTextHelper,com/google/gwt/user/client/ui/LabelBase.java,37,-1
 Panel,,com.google.gwt.user.client.ui.Panel,,com/google/gwt/user/client/ui/Panel.java,24,-1
-wg,com.google.gwt.user.client.ui.Panel::doAttachChildren()V,com.google.gwt.user.client.ui.Panel,doAttachChildren,com/google/gwt/user/client/ui/Panel.java,128,0
-xg,com.google.gwt.user.client.ui.Panel::doDetachChildren()V,com.google.gwt.user.client.ui.Panel,doDetachChildren,com/google/gwt/user/client/ui/Panel.java,133,0
+xg,com.google.gwt.user.client.ui.Panel::doAttachChildren()V,com.google.gwt.user.client.ui.Panel,doAttachChildren,com/google/gwt/user/client/ui/Panel.java,128,0
+yg,com.google.gwt.user.client.ui.Panel::doDetachChildren()V,com.google.gwt.user.client.ui.Panel,doDetachChildren,com/google/gwt/user/client/ui/Panel.java,133,0
 RootPanel,,com.google.gwt.user.client.ui.RootPanel,,com/google/gwt/user/client/ui/RootPanel.java,44,-1
 Lh,com.google.gwt.user.client.ui.RootPanel::$clinit()V,com.google.gwt.user.client.ui.RootPanel,$clinit,com/google/gwt/user/client/ui/RootPanel.java,44,0
 Mh,com.google.gwt.user.client.ui.RootPanel::RootPanel(Lcom/google/gwt/dom/client/Element;) <init>,com.google.gwt.user.client.ui.RootPanel,RootPanel,com/google/gwt/user/client/ui/RootPanel.java,291,0
@@ -462,15 +461,16 @@ Sh,com.google.gwt.user.client.ui.RootPanel$2::RootPanel$2() <init>,com.google.gw
 RootPanel$DefaultRootPanel,,com.google.gwt.user.client.ui.RootPanel$DefaultRootPanel,,com/google/gwt/user/client/ui/RootPanel.java,49,-1
 Th,com.google.gwt.user.client.ui.RootPanel$DefaultRootPanel::RootPanel$DefaultRootPanel() <init>,com.google.gwt.user.client.ui.RootPanel$DefaultRootPanel,RootPanel$DefaultRootPanel,com/google/gwt/user/client/ui/RootPanel.java,51,0
 UIObject,,com.google.gwt.user.client.ui.UIObject,,com/google/gwt/user/client/ui/UIObject.java,129,-1
-gg,com.google.gwt.user.client.ui.UIObject::$setElement(Lcom/google/gwt/user/client/ui/UIObject;Lcom/google/gwt/dom/client/Element;)V,com.google.gwt.user.client.ui.UIObject,$setElement,com/google/gwt/user/client/ui/UIObject.java,903,0
-hg,com.google.gwt.user.client.ui.UIObject::$setElement(Lcom/google/gwt/user/client/ui/UIObject;Lcom/google/gwt/user/client/Element;)V,com.google.gwt.user.client.ui.UIObject,$setElement,com/google/gwt/user/client/ui/UIObject.java,919,0
-ig,com.google.gwt.user.client.ui.UIObject::$setStyleName(Lcom/google/gwt/user/client/ui/UIObject;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.UIObject,$setStyleName,com/google/gwt/user/client/ui/UIObject.java,720,0
+gg,com.google.gwt.user.client.ui.UIObject::$addStyleName(Lcom/google/gwt/user/client/ui/UIObject;Ljava/lang/String;)V,com.google.gwt.user.client.ui.UIObject,$addStyleName,com/google/gwt/user/client/ui/UIObject.java,502,0
+hg,com.google.gwt.user.client.ui.UIObject::$setElement(Lcom/google/gwt/user/client/ui/UIObject;Lcom/google/gwt/dom/client/Element;)V,com.google.gwt.user.client.ui.UIObject,$setElement,com/google/gwt/user/client/ui/UIObject.java,903,0
+ig,com.google.gwt.user.client.ui.UIObject::$setElement(Lcom/google/gwt/user/client/ui/UIObject;Lcom/google/gwt/user/client/Element;)V,com.google.gwt.user.client.ui.UIObject,$setElement,com/google/gwt/user/client/ui/UIObject.java,919,0
+jg,com.google.gwt.user.client.ui.UIObject::$setStyleName(Lcom/google/gwt/user/client/ui/UIObject;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.UIObject,$setStyleName,com/google/gwt/user/client/ui/UIObject.java,720,0
 j,com.google.gwt.user.client.ui.UIObject::element,com.google.gwt.user.client.ui.UIObject,element,com/google/gwt/user/client/ui/UIObject.java,390,-1
-jg,com.google.gwt.user.client.ui.UIObject::getStylePrimaryName(Lcom/google/gwt/dom/client/Element;)Ljava/lang/String;,com.google.gwt.user.client.ui.UIObject,getStylePrimaryName,com/google/gwt/user/client/ui/UIObject.java,290,0
-kg,com.google.gwt.user.client.ui.UIObject::setStyleName(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.UIObject,setStyleName,com/google/gwt/user/client/ui/UIObject.java,325,0
-lg,com.google.gwt.user.client.ui.UIObject::setStylePrimaryName(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V,com.google.gwt.user.client.ui.UIObject,setStylePrimaryName,com/google/gwt/user/client/ui/UIObject.java,350,0
-mg,com.google.gwt.user.client.ui.UIObject::toString()Ljava/lang/String;,com.google.gwt.user.client.ui.UIObject,toString,com/google/gwt/user/client/ui/UIObject.java,812,0
-ng,com.google.gwt.user.client.ui.UIObject::updatePrimaryAndDependentStyleNames(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V,com.google.gwt.user.client.ui.UIObject,updatePrimaryAndDependentStyleNames,com/google/gwt/user/client/ui/UIObject.java,368,0
+kg,com.google.gwt.user.client.ui.UIObject::getStylePrimaryName(Lcom/google/gwt/dom/client/Element;)Ljava/lang/String;,com.google.gwt.user.client.ui.UIObject,getStylePrimaryName,com/google/gwt/user/client/ui/UIObject.java,290,0
+lg,com.google.gwt.user.client.ui.UIObject::setStyleName(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;Z)V,com.google.gwt.user.client.ui.UIObject,setStyleName,com/google/gwt/user/client/ui/UIObject.java,325,0
+mg,com.google.gwt.user.client.ui.UIObject::setStylePrimaryName(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V,com.google.gwt.user.client.ui.UIObject,setStylePrimaryName,com/google/gwt/user/client/ui/UIObject.java,350,0
+ng,com.google.gwt.user.client.ui.UIObject::toString()Ljava/lang/String;,com.google.gwt.user.client.ui.UIObject,toString,com/google/gwt/user/client/ui/UIObject.java,812,0
+og,com.google.gwt.user.client.ui.UIObject::updatePrimaryAndDependentStyleNames(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V,com.google.gwt.user.client.ui.UIObject,updatePrimaryAndDependentStyleNames,com/google/gwt/user/client/ui/UIObject.java,368,0
 VerticalPanel,,com.google.gwt.user.client.ui.VerticalPanel,,com/google/gwt/user/client/ui/VerticalPanel.java,28,-1
 Uh,com.google.gwt.user.client.ui.VerticalPanel::$add(Lcom/google/gwt/user/client/ui/VerticalPanel;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.VerticalPanel,$add,com/google/gwt/user/client/ui/VerticalPanel.java,43,0
 Vh,com.google.gwt.user.client.ui.VerticalPanel::VerticalPanel() <init>,com.google.gwt.user.client.ui.VerticalPanel,VerticalPanel,com/google/gwt/user/client/ui/VerticalPanel.java,37,0
@@ -478,16 +478,16 @@ a,com.google.gwt.user.client.ui.VerticalPanel::horzAlign,com.google.gwt.user.cli
 Wh,com.google.gwt.user.client.ui.VerticalPanel::remove(Lcom/google/gwt/user/client/ui/Widget;)Z,com.google.gwt.user.client.ui.VerticalPanel,remove,com/google/gwt/user/client/ui/VerticalPanel.java,83,0
 b,com.google.gwt.user.client.ui.VerticalPanel::vertAlign,com.google.gwt.user.client.ui.VerticalPanel,vertAlign,com/google/gwt/user/client/ui/VerticalPanel.java,32,-1
 Widget,,com.google.gwt.user.client.ui.Widget,,com/google/gwt/user/client/ui/Widget.java,36,-1
-og,com.google.gwt.user.client.ui.Widget::$onAttach(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$onAttach,com/google/gwt/user/client/ui/Widget.java,339,0
-pg,com.google.gwt.user.client.ui.Widget::$onDetach(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$onDetach,com/google/gwt/user/client/ui/Widget.java,386,0
-qg,com.google.gwt.user.client.ui.Widget::$removeFromParent(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$removeFromParent,com/google/gwt/user/client/ui/Widget.java,194,0
-rg,com.google.gwt.user.client.ui.Widget::$setParent(Lcom/google/gwt/user/client/ui/Widget;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$setParent,com/google/gwt/user/client/ui/Widget.java,464,0
+pg,com.google.gwt.user.client.ui.Widget::$onAttach(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$onAttach,com/google/gwt/user/client/ui/Widget.java,339,0
+qg,com.google.gwt.user.client.ui.Widget::$onDetach(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$onDetach,com/google/gwt/user/client/ui/Widget.java,386,0
+rg,com.google.gwt.user.client.ui.Widget::$removeFromParent(Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$removeFromParent,com/google/gwt/user/client/ui/Widget.java,194,0
+sg,com.google.gwt.user.client.ui.Widget::$setParent(Lcom/google/gwt/user/client/ui/Widget;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.Widget,$setParent,com/google/gwt/user/client/ui/Widget.java,464,0
 g,com.google.gwt.user.client.ui.Widget::attached,com.google.gwt.user.client.ui.Widget,attached,com/google/gwt/user/client/ui/Widget.java,56,-1
-sg,com.google.gwt.user.client.ui.Widget::doAttachChildren()V,com.google.gwt.user.client.ui.Widget,doAttachChildren,com/google/gwt/user/client/ui/Widget.java,285,0
-tg,com.google.gwt.user.client.ui.Widget::doDetachChildren()V,com.google.gwt.user.client.ui.Widget,doDetachChildren,com/google/gwt/user/client/ui/Widget.java,296,0
+tg,com.google.gwt.user.client.ui.Widget::doAttachChildren()V,com.google.gwt.user.client.ui.Widget,doAttachChildren,com/google/gwt/user/client/ui/Widget.java,285,0
+ug,com.google.gwt.user.client.ui.Widget::doDetachChildren()V,com.google.gwt.user.client.ui.Widget,doDetachChildren,com/google/gwt/user/client/ui/Widget.java,296,0
 h,com.google.gwt.user.client.ui.Widget::eventsToSink,com.google.gwt.user.client.ui.Widget,eventsToSink,com/google/gwt/user/client/ui/Widget.java,55,-1
-ug,com.google.gwt.user.client.ui.Widget::onAttach()V,com.google.gwt.user.client.ui.Widget,onAttach,com/google/gwt/user/client/ui/Widget.java,339,0
-vg,com.google.gwt.user.client.ui.Widget::onBrowserEvent(Lcom/google/gwt/user/client/Event;)V,com.google.gwt.user.client.ui.Widget,onBrowserEvent,com/google/gwt/user/client/ui/Widget.java,163,0
+vg,com.google.gwt.user.client.ui.Widget::onAttach()V,com.google.gwt.user.client.ui.Widget,onAttach,com/google/gwt/user/client/ui/Widget.java,339,0
+wg,com.google.gwt.user.client.ui.Widget::onBrowserEvent(Lcom/google/gwt/user/client/Event;)V,com.google.gwt.user.client.ui.Widget,onBrowserEvent,com/google/gwt/user/client/ui/Widget.java,163,0
 i,com.google.gwt.user.client.ui.Widget::parent,com.google.gwt.user.client.ui.Widget,parent,com/google/gwt/user/client/ui/Widget.java,59,-1
 WidgetCollection,,com.google.gwt.user.client.ui.WidgetCollection,,com/google/gwt/user/client/ui/WidgetCollection.java,34,-1
 Xh,com.google.gwt.user.client.ui.WidgetCollection::$add(Lcom/google/gwt/user/client/ui/WidgetCollection;Lcom/google/gwt/user/client/ui/Widget;)V,com.google.gwt.user.client.ui.WidgetCollection,$add,com/google/gwt/user/client/ui/WidgetCollection.java,89,0
@@ -510,7 +510,7 @@ c,com.google.gwt.user.client.ui.WidgetCollection$WidgetIterator::this$01,com.goo
 gi,com.google.gwt.useragent.client.UserAgentAsserter::assertCompileTimeUserAgent()V,com.google.gwt.useragent.client.UserAgentAsserter,assertCompileTimeUserAgent,com/google/gwt/useragent/client/UserAgentAsserter.java,49,0
 UserAgentAsserter$UserAgentAssertionError,,com.google.gwt.useragent.client.UserAgentAsserter$UserAgentAssertionError,,com/google/gwt/useragent/client/UserAgentAsserter.java,65,-1
 ii,com.google.gwt.useragent.client.UserAgentAsserter$UserAgentAssertionError::UserAgentAsserter$UserAgentAssertionError(Ljava/lang/String;Ljava/lang/String;) <init>,com.google.gwt.useragent.client.UserAgentAsserter$UserAgentAssertionError,UserAgentAsserter$UserAgentAssertionError,com/google/gwt/useragent/client/UserAgentAsserter.java,79,0
-ji,com.google.gwt.useragent.client.UserAgentImplIe9::$getRuntimeValue(Lcom/google/gwt/useragent/client/UserAgentImplIe9;)Ljava/lang/String;,com.google.gwt.useragent.client.UserAgentImplIe9,$getRuntimeValue,gen/com/google/gwt/useragent/client/UserAgentImplIe9.java,5,0
+ji,com.google.gwt.useragent.client.UserAgentImplIe10::$getRuntimeValue(Lcom/google/gwt/useragent/client/UserAgentImplIe10;)Ljava/lang/String;,com.google.gwt.useragent.client.UserAgentImplIe10,$getRuntimeValue,gen/com/google/gwt/useragent/client/UserAgentImplIe10.java,5,0
 Event,,com.google.web.bindery.event.shared.Event,,com/google/web/bindery/event/shared/Event.java,23,-1
 b,com.google.web.bindery.event.shared.Event::source,com.google.web.bindery.event.shared.Event,source,com/google/web/bindery/event/shared/Event.java,51,-1
 Sb,com.google.web.bindery.event.shared.Event::toString()Ljava/lang/String;,com.google.web.bindery.event.shared.Event,toString,com/google/web/bindery/event/shared/Event.java,102,0
