@@ -40,6 +40,13 @@ public class petstore implements EntryPoint {
 	middle.add(right);
 
 	Label header = new Label("Petstore");
+
+	header.addStyleName("etykieta");
+	header.addStyleDependentName("test");
+	header.setStylePrimaryName("aw");
+	header.setStyleName("purge");
+
+
 	FlowPanel footer = new FlowPanel();
 	footer.add(new Label("Kontakt: "));
 	footer.add(new Anchor("office@petstore.pcz.pl",
